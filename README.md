@@ -1,8 +1,8 @@
 # App-Dev
 MyFirstRepository.
-SAMS
-Pia Penarubia
-Karl Smith Ramos
-Nicholas Nevalga
-Jin Ashley Mejia
-Sopia flor Cantoria
+SAMS.
+Penarubia, Pia
+Ramos, Karl Smith
+Nevalga, Nicholas
+Mejia, Jin Ashley
+Cantoria, Sopia flor
